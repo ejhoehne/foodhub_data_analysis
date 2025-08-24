@@ -1,2 +1,2 @@
 # foodhub_data_analysis
-Data Analysis for Food Hub
+Analyzing the orders from a food aggregator company
